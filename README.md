@@ -5,7 +5,8 @@
 # About this repository
 
 The book consists of a comprehensive collection of coding problems covering various topics in data structures and algorithms. These problems are carefully selected to enhance understanding and proficiency in solving coding challenges during the interview process. The topics covered in this repository include:
-<pre> 
+
+<pre>
     1. Is Unique
 </pre>
 
