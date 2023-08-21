@@ -7,7 +7,8 @@
 The book consists of a comprehensive collection of coding problems covering various topics in data structures and algorithms. These problems are carefully selected to enhance understanding and proficiency in solving coding challenges during the interview process. The topics covered in this repository include:
 
 <pre>
-    1. Is Unique
+    1. Array and String
+        i. Is Unique
 </pre>
 
 The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the book.
